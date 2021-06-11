@@ -1,0 +1,13 @@
+﻿.container {
+    border:2px solid black;
+}
+.row {
+   margin:10px;
+}
+
+.col-lg-3 {
+    margin:100px;
+}
+.shadow {
+    box-shadow:5px 5px 6px red;
+}
